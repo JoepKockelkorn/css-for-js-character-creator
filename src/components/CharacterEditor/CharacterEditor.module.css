@@ -33,10 +33,6 @@
   width: min(512px, 50%);
 }
 
-.characterWrapper > * {
-  min-height: 500px;
-}
-
 .controlColumn {
   width: 50%;
 }
